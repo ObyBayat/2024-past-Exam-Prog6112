@@ -18,6 +18,7 @@ public class App extends JFrame  {
       setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
       setTitle("Movie Tickets");
       
+///////////////////////////Declaring UI components///////////////////////////////
       JPanel panel = new JPanel();
       //menu bar
       JMenuBar menuBar = new JMenuBar();
