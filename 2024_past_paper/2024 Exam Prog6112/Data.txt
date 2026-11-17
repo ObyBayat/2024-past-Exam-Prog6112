@@ -1,0 +1,4 @@
+Movie name : Oppenheimer
+Movie ticket price : 100.0
+Number of tickets : 3
+Total price : 342.0
