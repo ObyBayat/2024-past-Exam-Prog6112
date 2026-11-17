@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany._past_paper;
+package Q2;
 
 
 import java.awt.event.ActionEvent;
